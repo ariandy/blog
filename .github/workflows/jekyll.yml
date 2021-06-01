@@ -24,7 +24,7 @@ jobs:
 
       # use jekyll-action-ts to build
       # https://github.com/limjh16/jekyll-action-ts
-      - uses: limjh16/jekyll-action-ts@v2
+      - uses: helaili/jekyll-action@v2
         with:
           enable_cache: true
 
