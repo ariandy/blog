@@ -5,6 +5,7 @@ author: "1kb"
 categories: journal
 tags: [documentation,sample]
 image: forest.jpg
+mathjax: true
 ---
 
 Banyak orang yang menyalahpahami bahwa ilmu berkaitan dengan Komputasi Quantum terdengar seperti *lo-fi hip-hop* dari Mamang Kesbor, mengawang-awang. Ditambah lagi bahwa terkadang saya kurang puas dengan penjelasan dari buku-buku pop-science yang mencoba menjelaskan *Superposition*. Padahal sejatinya Komputasi Quantum adalah ilmu yang aksesibel dan dapat dipelajari dimana pun selama anda mampu menggunakan Google-Fu dengan baik.
@@ -66,9 +67,7 @@ Dan ini pun berlaku pula pada $$\beta$$.
 
 Oleh karenanya, kita bisa menuliskan contoh kasus di atas menjadi seperti berikut.
 
-<script type="math/tex; mode=display">
-  |\psi \rangle = \frac{1}{\sqrt 2} |0 \rangle + \frac{1}{\sqrt 2} |1 \rangle
-</script>
+$$ |\psi \rangle = \frac{1}{\sqrt 2} |0 \rangle + \frac{1}{\sqrt 2} |1 \rangle $$
 
 Jadinya, kita baru saja merubahnya menjadi seperti berikut.
 
