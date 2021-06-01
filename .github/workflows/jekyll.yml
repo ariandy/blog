@@ -25,8 +25,8 @@ jobs:
       # use jekyll-action-ts to build
       # https://github.com/limjh16/jekyll-action-ts
       - uses: helaili/jekyll-action@v2
-        with:
-          enable_cache: true
+        # with:
+        #   enable_cache: true
 
       # use actions-gh-pages to deploy
       # https://github.com/peaceiris/actions-gh-pages
