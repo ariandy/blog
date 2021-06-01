@@ -18,18 +18,14 @@ Setiap yang mempelajari tentang Komputasi Quantum tentunya pernah mendengar tent
 Komputasi Digital mengenal istilah Bit, dimana direpresantasikan dengan 0 dan 1. 0 sebagai *Off*. 1 sebagai *On*.
 Begitu juga dengan Qubit. Qubit, yang kependekan dari Quantum Bit, juga serupa dengan Bit yang ada di dunia Digital. Hanya saja, Qubit memiliki fitur yang dinamakan sebagai *superposition*, dimana sebuah Qubit bisa berada di dalam kondisi antara 0 dan 1. Atau bisa dituliskan sebagai:
 
-<script type="math/tex; mode=display">
-  |\psi \rangle = \alpha |0 \rangle + \beta |1 \rangle
-</script>
+$$ |\psi \rangle = \alpha |0 \rangle + \beta |1 \rangle $$
 
 $$|\psi \rangle$$ adalah yang tadi kita sebut sebagai *superposition*. Namun di ruas kanan dari persamaan di atas, kita bisa melihat angka 0 dan 1 dituliskan di antara notasi yang sama dengan yang digunakan oleh $$\psi$$ pada ruas kanan.
 Notasi ini dikenal sebagai Notasi Dirac. Notasi ini menggambarkan keadaan 1 Qubit yang bisa saja bernilai 0 ataupun 1.
 
 Sementara untuk memahami $$\alpha$$ dan $$\beta$$, kita perlu mengingat kembali Teorema Pythagoras.
 
-<script type="math/tex; mode=display">
-  a^2 + b^2 = c^2
-</script>
+$$ a^2 + b^2 = c^2 $$
 
 Nah, $$\alpha$$ dan $$\beta$$ ini adalah bilangan kompleks, yang mana bisa kita gantikan posisinya daripada variabel a dan b pada teorema di atas. Namun, $$c^2$$ haruslah bernilai 1.
 
