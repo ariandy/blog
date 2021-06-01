@@ -165,11 +165,11 @@ Gerbang Quantum yang dibutuhkan adalah matrix seperti berikut.
 
 Dengan mengalikan $$\vert 00\rangle$$ dengan matrix di atas, maka kita dapat membuat kondisi superposisi.
 
-<script type="math/tex; mode=display">
+$$
     \begin{bmatrix} 0 & 1 & 0 & 0\\
     \sqrt{1/2} & 0 & \sqrt{1/2} & 0\\
     \sqrt{1/2} & 0 & -\sqrt{1/2} & 0\\
     0&0&0&1 \end{bmatrix} \times \begin{bmatrix} 1\\0\\0\\0 \end{bmatrix} = \begin{bmatrix} 0\\ \sqrt{1/2} \\ \sqrt{1/2} \\0 \end{bmatrix}
-</script>
+$$
 
 Begitulah sekiranya cara membuat membuat Qubit ke kondisi superposisi.
