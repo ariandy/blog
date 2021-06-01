@@ -44,4 +44,4 @@ jobs:
           external_repository: ariandy/ariandy.github.io
           publish_branch: main
           publish_dir: ./_site
-          destination_dir: blog
+          destination_dir: .
